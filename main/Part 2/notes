@@ -1,0 +1,20 @@
+if same varibale is repeatedly inherting we use the virtual keyword
+but if same function repeats then use 
+
+void greet(){
+    base1 :: greet();
+}
+
+virtual functions are used in the base pointers are ponted to the derived class
+and virtual keyword should be used if the function should not run from a
+particular class
+
+here if we derive an array in the class by the new keyword then
+the syntax will be changed and for even in the case like
+
+CWH *ptr[2];// this is different;
+
+and remaing all cases we can use happily ptr[i]; or *(ptr+i)
+
+the new keyword deriving of pointer shall be used only when the class
+should not contain constructor

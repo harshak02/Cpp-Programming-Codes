@@ -1,0 +1,4 @@
+Just a few words about templates :
+how is object related to class in the same way the class is related to template
+Prior to the concept explained by harry in 63rd video its like in one shot we create the int char float and etc classes
+it has different syntax and pointers is invloved
